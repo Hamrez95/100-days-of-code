@@ -19,4 +19,14 @@
 **Link to work:** [Task Manager Console Application](https://github.com/Hamrez95/Task-Manager-Console-Application.git)
 
 
+### Day 3: August 07, 2023 
+
+
+**Today's Progress**: Actully I didnt work on my project,  I had some issues and I did practice some basic methods. 
+
+**Thoughts:** I think, I will do this again tomorrow too, because I need to go deeper in some concepts. :/
+
+**Link to work:** [Task Manager Console Application](https://github.com/Hamrez95/Task-Manager-Console-Application.git)
+
+
 
