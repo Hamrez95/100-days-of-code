@@ -16,3 +16,6 @@ https://github.com/Hamrez95/Task-Manager-Console-Application.git
 Actully I didnt work on my project,  I had some issues and I did practice some basic methods. I think, I will do this again tomorrow too, because I need to go deeper in some concepts.
 https://github.com/Hamrez95/Task-Manager-Console-Application.git
 
+### R1D4
+i just reviewed som concept like Delegate and Funcs. 
+https://github.com/Hamrez95/Task-Manager-Console-Application.git

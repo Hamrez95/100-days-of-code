@@ -29,4 +29,14 @@
 **Link to work:** [Task Manager Console Application](https://github.com/Hamrez95/Task-Manager-Console-Application.git)
 
 
+### Day 4: August 08, 2023 
+
+
+**Today's Progress**: i just reviewed som concept like Delegate and Funcs. 
+
+**Thoughts:**I am so tired , after class i really want to die :/ i should find a better plan for functionality...
+
+**Link to work:** [Task Manager Console Application](https://github.com/Hamrez95/Task-Manager-Console-Application.git)
+
+
 
